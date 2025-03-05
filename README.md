@@ -159,7 +159,3 @@ Examine the FIELD values to locate "TargetFilename" and filter specifically for 
 ![2025-03-05 11_06_48-Search _ Splunk 8 2 4](https://github.com/user-attachments/assets/74627858-0acc-46ae-9945-b2c559c520ca)
 
 - 406 .txt files encrypted
-
-## Q11: The malware downloads a file that contains the Cerber ransomware cryptor code. What is the name of that file?
-
-## Q12: Now that you know the name of the ransomware's encryptor file, what obfuscation technique does it likely use?
